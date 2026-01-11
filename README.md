@@ -1,4 +1,4 @@
-# Data-Analisi-on-Spotify.csv
+# Data-Analisi-on-Spotify
 🎵 Analisi dei Trend Musicali su Spotify
 Questo progetto consiste in un'analisi esplorativa dei dati (EDA - Exploratory Data Analysis) su un dataset di brani musicali di Spotify. L'obiettivo è comprendere quali fattori influenzano la popolarità delle canzoni, analizzare l'evoluzione delle caratteristiche musicali nel tempo e identificare correlazioni tra le varie metriche audio.
 
